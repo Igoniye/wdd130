@@ -1,0 +1,32 @@
+/* Limiting the width for main */main {
+    width: 80%;
+    margin: 0 auto;
+}
+/* Styles for the aside element */aside {
+    width: 250px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+/* Styles for the aside image */aside img {
+    width: 200px;
+    height: auto;
+}
+/* More specific selector for main images */main img {
+    width: 150px;
+    height: auto;
+}
+/* Paragraph padding */p {
+    padding: 0;
+}
+/* Footer styles */footer {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+}
+Explanation for CSS Rules
+Main Element: The main element's width is limited to 80% of the viewport and centered with auto margins.
+Aside Element: The aside element is styled with a specific width, margin, border, padding, background color, and text color for better visual separation and readability.
+Aside Image: The image inside the aside is set to a width of 200px with an automatic height to maintain the aspect ratio.
