@@ -1,70 +1,24 @@
 /* Universal Selector */
-* {
-    margin: 0;
-    padding: 2px;
-    box-shadow:0 0 30px gray; 
-}
-/* Class Selectors */.box {
-    margin: 1em;
-    padding: 1em;
-    border: 1px solid steelblue;
-    background-color: #f9f9f9;
-    color: #333;
-}
-aside {
-    width:20em
-    margin: 1em;
-    border: 1px;solid rgba (0,0,0,2)
-    padding: 1em;
-    background-color: #ccc;
-    color:#333;
-    text-align:center;
-}
-aside img {
-    width: 200px;
-    height: auto;
-}
-aside h2 {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    background-color: rgba(255, 255, 255, 0.7);
-    padding: 5px;
-}
-/* Navigation Links */nav a {
-    margin-right: 1rem;
-    text-decoration: none;
-    color: #007bff;
-}
-/* Limiting the width for main */main {
-    width: 80%;
-    margin: 0 auto;
-}
-/* Styles for the aside element */aside {
-    width: 250px;
-    margin: 20px auto;
-    border: 1px solid #ccc;
-    padding: 10px;
-    background-color: #f9f9f9;
-    color: #333;
-}
-/* Styles for the aside image */aside img {
-    width: 200px;
-    height: auto;
-}
-/* More specific selector for main images */main img {
-    width: 150px;
-    height: auto;
-}
-/* Paragraph padding */p {
-    padding: 0;
-}
-/* Footer styles */footer {
-    margin-top: 20px;
-    border-top: 1px solid #ccc;
-    text-align: center;
-}
-Explanation for CSS Rules
-Main Element: The main element's width is limited to 80% of the viewport and centered with auto margins.
-Aside Element: The aside element is styled with a specific width, margin, border, padding, background color, and text color for better visual separation and readability.
-Aside Image: The image inside the aside is set to a width of 200px with an automatic height to maintain the aspect ratio.
+ nav {
+    background-color:steelblue;
+    padding:10px;
+
+    nav a{
+        color: white
+        display:block
+        padding:20px;
+
+        hi{ 
+            color:steelblue;
+        }
+        img{  
+            width:150px;
+            height:auto;
+            border:1px solid steelblue;
+            padding:2px;
+            box-shadow:0 0 30px gray;
+        }
+        p{
+            padding: :10px;
+        }
+    
