@@ -1,58 +1,49 @@
-/* Universal Selector */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+nav  {
+    background-color: steelblue
+    padding: 10px;
+    
+}
+nav a
+ {
+    color: white;
+    padding: 10px;
+    display:block;
+}
+h1  {
+    color: steelblue;
 }
 
-/* Class Selectors */
-/* Class Selectors */
-.box {
+main img      {
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+
+
+
+
+
+aside    {
+    width: 20rem;
     margin: 1rem;
+    border: 1px solid rgb(0 0 0/0.2);1*/
     padding: 1rem;
-    border: 1px solid #000;
-    background-color: #f0f0f0;
-    color: #333;
-}
-
-aside {
-    position: relative;
-}
-
-aside h2 {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    background-color: rgba(255, 255, 255, 0.7);
-    padding: 5px;
-}
-
-main img {
-    float: right;
-    margin: 1rem;
-}
-
-nav a {
-    margin-right: 10px;
-    text-decoration: none;
-    color: #0073e6;
-}
-
-nav a:hover {
-    text-decoration: underline;
-}
-
-
-/* Universal selector for margin, padding, and box-sizing */
+    background-color:# eee;
+    color:#333;
+    Text-align:center;
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+    
+   aside image    }
+   width: 200px;
+   height:auto;
 
-header, .grid, footer {
-    max-width: 840px;
-    margin: 0 auto;
+
+footer {
+    margin-top:15x;
+    border-top: 1px solid #000;
+    text-align: color;
 }
 
 nav {
