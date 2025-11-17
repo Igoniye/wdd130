@@ -1,11 +1,11 @@
 nav  {
-    background-color: steelblue
+    background-color: rgb(247, 250, 253);
     padding: 10px;
     
 }
 nav a
  {
-    color: white;
+    color: navy;
     padding: 10px;
     display:block;
 }
@@ -25,19 +25,18 @@ main img      {
 
 
 
-aside    {
+aside {
     width: 20rem;
     margin: 1rem;
-    border: 1px solid rgb(0 0 0/0.2);1*/
+    border: 1px solid rgb(0 0 0/0.2);
     padding: 1rem;
-    background-color:# eee;
+    background-color:#eee;
     color:#333;
-    Text-align:center;
+    Text-align:center;}
 * {
-    
-   aside image    }
+   
    width: 200px;
-   height:auto;
+   height:auto;}
 
 
 footer {
@@ -68,9 +67,7 @@ h1 {
     gap: 20px; /* Adjust the gap as needed */
 }
 
-aside {
-    grid-column: 1;
-}
+
 
 main {
     grid-column: 2;
