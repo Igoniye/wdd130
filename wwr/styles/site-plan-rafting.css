@@ -54,3 +54,19 @@ nav a:hover {
     color: var(--nav-hover-link-color);
     padding: 5px;
 }
+.hero {
+    position: relative;
+}
+.hero h1{
+    font-style: normal;
+}
+.hero article{
+    font-style: normal;
+}
+.hero article img{
+    float: right;
+}
+* { margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+}
