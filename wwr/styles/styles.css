@@ -84,3 +84,15 @@ main {
     background-color: #f0f0f0;
     color: #000;
 }
+.hero {
+    position: relative;
+}
+.hero h1{
+    font-style: normal;
+}
+.hero article{
+    font-style: normal;
+}
+.hero article img{
+    float: right;
+}
