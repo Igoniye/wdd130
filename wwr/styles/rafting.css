@@ -8,6 +8,7 @@
     --nav-link-color: white;
     --nav-hover-bg-color: var(--secondary-color);
     --nav-hover-link-color: var(--accent2-color);
+   font-size: var(--variable-name);
 }
 
 * { margin: 0; 
@@ -30,4 +31,7 @@
 * { margin: 0; 
     padding: 0; 
     box-sizing: border-box; 
+}
+.socialmedia a {
+text-decoration: none;
 }
