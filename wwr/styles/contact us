@@ -5,7 +5,7 @@ html
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Contact White Water Rafting Adventures - Get in touch for bookings, questions, or custom rafting trips.">
-    <meta name="author" content="Your Name">
+    <meta name="author" content="Williams Igoniye">
     <title>Contact Us - White Water Rafting Adventures</title>
     <link rel="stylesheet" href="styles/rafting.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -201,7 +201,7 @@ html
 
     <footer>
         <div class="footer-content">
-            <p>&copy; 2024 White Water Rafting Adventures | Your Name</p>
+            <p>&copy; 2025 White Water Rafting Adventures | Williams Igoniye</p>
             <nav class="socialmedia">
                 <a href="https://facebook.com">
                     <img src="images/facebook.svg" alt="Facebook" width="30">
